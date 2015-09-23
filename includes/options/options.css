@@ -1,0 +1,103 @@
+#wpfooter {display:none!important;}
+.rm_section{
+line-height: 50px;
+background: #fff;
+	}
+.rm_opts label{
+font-size: 15px;
+font-weight: 700;
+width: 200px;
+display: block;
+float: left;
+color: #888;
+	}
+.rm_input {
+	padding:20px 10px;
+	border-bottom:1px solid #ddd;
+	}
+.rm_opts small{
+	display:block;
+	width:700px;
+	font-size:12px;
+	color:#666;
+	line-height:20px;
+	}
+.rm_opts input[type="text"], .rm_opts select{
+	width:280px;
+	font-size:12px;
+	padding:4px;
+	color:#333;
+	line-height:20px;
+	background:#f3f3f3;
+	}
+.rm_input input:focus, .rm_input textarea:focus{
+		background:#fff;
+	}
+.rm_input textarea{
+	width:60%;
+	height:60px;
+	font-size:12px;
+	padding:4px;
+	color:#333;
+	line-height:20px;
+	background:#f3f3f3;
+	}
+.rm_title h3 {
+cursor: pointer;
+font-size: 14px;
+margin: 0;
+font-weight: 200;
+color: #232323;
+float: left;
+width: 80%;
+	}
+.rm_title{
+cursor: pointer;
+background-color: #F1F1F1;
+border-bottom: 3PX SOLID #FFF;
+padding: 0;
+height: 50px;
+	}
+.rm_title h3 img.inactive{
+margin: 15px;
+width: 19px;
+height: 19px;
+background: url(collapse.png) no-repeat 0 0;
+float: left;
+	}
+.rm_title h3 img.active{
+margin: 15px;
+width: 19px;
+height: 19px;
+background: url(collapse.png) no-repeat 0 -19px;
+float: left;
+	}
+.rm_title span.submit{
+display: block;
+float: right;
+margin: 0;
+padding: 0;
+width: 9%;
+	}
+.clearfix{
+	clear:both;
+	}
+.rm_table th, .rm_table td{
+	border:1px solid #bbb;
+	padding:10px;
+	text-align:center;
+	}
+.rm_table th, .rm_table td.feature{
+	border-color:#888;
+	}
+.kg {
+	padding-top:100px;
+	}
+.vright { float: right; }
+.wrap .version_tips {
+			display: none;
+			margin: 20px 0;
+			padding: 5px;
+			border: 1px solid #E6DB55;
+			background: #FFFBCC;
+		}
