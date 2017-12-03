@@ -1,6 +1,6 @@
 # Metro
 
-This is a theme template for wordpress.
+🎨 A blog theme for wordpress.
 
 ### Index page
 
